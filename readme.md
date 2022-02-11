@@ -1,0 +1,1 @@
+[![CircleCI](https://circleci.com/gh/SamoilenkoS/Advanced2/tree/master.svg?style=svg)](https://circleci.com/gh/SamoilenkoS/Advanced2/tree/master)
